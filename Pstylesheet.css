@@ -1,0 +1,54 @@
+element.style {
+}
+@media screen and (min-width: 961px)
+.main {
+    padding: 79px 0 280px;
+    min-height: calc(100vh - 423px);
+}
+<style>
+* {
+    font-family: "游ゴシック Medium", 游ゴシック体, "Yu Gothic Medium", YuGothic, "ヒラギノ角ゴ ProN", "Hiragino Kaku Gothic ProN", メイリオ, Meiryo, "ＭＳ Ｐゴシック", "MS PGothic", sans-serif;
+    letter-spacing: 0.12em;
+    margin: 0px;
+    padding: 0px;
+}
+user agent stylesheet
+main {
+    display: block;
+}
+<style>
+* {
+    font-family: "游ゴシック Medium", 游ゴシック体, "Yu Gothic Medium", YuGothic, "ヒラギノ角ゴ ProN", "Hiragino Kaku Gothic ProN", メイリオ, Meiryo, "ＭＳ Ｐゴシック", "MS PGothic", sans-serif;
+    letter-spacing: 0.12em;
+    margin: 0px;
+    padding: 0px;
+}
+body {
+    color: #707070;
+    font-family: "游ゴシック Medium", "游ゴシック体", "Yu Gothic Medium", YuGothic, "ヒラギノ角ゴ ProN", "Hiragino Kaku Gothic ProN", "メイリオ", Meiryo, "ＭＳ Ｐゴシック", "MS PGothic", sans-serif;
+}
+<style>
+* {
+    font-family: "游ゴシック Medium", 游ゴシック体, "Yu Gothic Medium", YuGothic, "ヒラギノ角ゴ ProN", "Hiragino Kaku Gothic ProN", メイリオ, Meiryo, "ＭＳ Ｐゴシック", "MS PGothic", sans-serif;
+    letter-spacing: 0.12em;
+    margin: 0px;
+    padding: 0px;
+}
+html {
+    color: #2f2f2f;
+    background: #ffffff;
+    line-height: 1.6;
+    overflow-y: scroll;
+    height: 100%;
+    font-size: 62.5%;
+}
+<style>
+* {
+    font-family: "游ゴシック Medium", 游ゴシック体, "Yu Gothic Medium", YuGothic, "ヒラギノ角ゴ ProN", "Hiragino Kaku Gothic ProN", メイリオ, Meiryo, "ＭＳ Ｐゴシック", "MS PGothic", sans-serif;
+    letter-spacing: 0.12em;
+    margin: 0px;
+    padding: 0px;
+}
+.mark{
+  padding-top: 50px;
+}
